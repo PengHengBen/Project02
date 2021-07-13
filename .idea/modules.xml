@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/day06_Thread/day06_Thread.iml" filepath="$PROJECT_DIR$/day06_Thread/day06_Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/day07_ThreadAndLambda/day07_ThreadAndLambda.iml" filepath="$PROJECT_DIR$/day07_ThreadAndLambda/day07_ThreadAndLambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/day08_FileAndRecursion/day08_FileAndRecursion.iml" filepath="$PROJECT_DIR$/day08_FileAndRecursion/day08_FileAndRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09_IOAndProperties/day09_IOAndProperties.iml" filepath="$PROJECT_DIR$/day09_IOAndProperties/day09_IOAndProperties.iml" />
     </modules>
   </component>
 </project>
