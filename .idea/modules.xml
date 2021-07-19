@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/day09_IOAndProperties/day09_IOAndProperties.iml" filepath="$PROJECT_DIR$/day09_IOAndProperties/day09_IOAndProperties.iml" />
       <module fileurl="file://$PROJECT_DIR$/day10_IO/day10_IO.iml" filepath="$PROJECT_DIR$/day10_IO/day10_IO.iml" />
       <module fileurl="file://$PROJECT_DIR$/day11_Net/day11_Net.iml" filepath="$PROJECT_DIR$/day11_Net/day11_Net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12_FunctionalInterface/day12_FunctionalInterface.iml" filepath="$PROJECT_DIR$/day12_FunctionalInterface/day12_FunctionalInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13_StreamAndMethodReference/day13_StreamAndMethodReference.iml" filepath="$PROJECT_DIR$/day13_StreamAndMethodReference/day13_StreamAndMethodReference.iml" />
     </modules>
   </component>
 </project>
